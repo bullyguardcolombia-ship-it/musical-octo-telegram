@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Dra. Laura Gómez",
+        "specialty": "Terapia Cognitivo-Conductual, Ansiedad",
+        "experience": "10 años de experiencia en terapia individual y de pareja. Especialista en manejo de ansiedad y estrés.",
+        "photo": "https://generative-models.web.app/images/generative-models-photo-1.jpg",
+        "availability": {
+            "Lunes": "9:00 AM - 5:00 PM",
+            "Martes": "9:00 AM - 1:00 PM",
+            "Miércoles": "No disponible",
+            "Jueves": "1:00 PM - 7:00 PM",
+            "Viernes": "9:00 AM - 5:00 PM"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Dr. Carlos Ramírez",
+        "specialty": "Terapia Familiar, Adolescentes",
+        "experience": "15 años de experiencia trabajando con adolescentes y familias. Enfoque en comunicación y resolución de conflictos.",
+        "photo": "https://generative-models.web.app/images/generative-models-photo-2.jpg",
+        "availability": {
+            "Lunes": "10:00 AM - 6:00 PM",
+            "Martes": "No disponible",
+            "Miércoles": "10:00 AM - 6:00 PM",
+            "Jueves": "10:00 AM - 2:00 PM",
+            "Viernes": "10:00 AM - 6:00 PM"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Dra. Sofía Vargas",
+        "specialty": "Psicología Infantil, Bullying",
+        "experience": "8 años de experiencia en atención a niños y adolescentes, con énfasis en autoestima y manejo de bullying escolar.",
+        "photo": "https://generative-models.web.app/images/generative-models-photo-3.jpg",
+        "availability": {
+            "Lunes": "No disponible",
+            "Martes": "2:00 PM - 8:00 PM",
+            "Miércoles": "9:00 AM - 5:00 PM",
+            "Jueves": "9:00 AM - 5:00 PM",
+            "Viernes": "No disponible"
+        }
+    }
+]

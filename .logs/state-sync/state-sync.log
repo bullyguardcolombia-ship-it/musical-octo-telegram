@@ -1,0 +1,122 @@
+{"time":"2025-10-26T12:49:52.942061066-04:00","level":"INFO","msg":"Sentry initialized","dsn":"https://962d173a894d***","environment":"PROD","release":"5.2.21","sandbox_id":"ink4u44n0c0nnmxc3fn47"}
+{"time":"2025-10-26T12:49:52.944879338-04:00","level":"INFO","msg":"Sentry initialized successfully"}
+{"time":"2025-10-26T12:49:52.944923363-04:00","level":"INFO","msg":"State sync started","log_file":"/home/ubuntu/.logs/state-sync/state-sync.log"}
+{"time":"2025-10-26T12:49:52.947594846-04:00","level":"INFO","msg":"Pulling state from remote storage"}
+{"time":"2025-10-26T12:49:52.948572657-04:00","level":"INFO","msg":"Pull is not allowed, waiting for config change"}
+{"time":"2025-10-26T12:49:53.107734296-04:00","level":"INFO","msg":"Created hidden target for cookie sync","targetID":"029A989DDAA2A524E36A3437430B9935"}
+{"time":"2025-10-26T12:49:53.16924405-04:00","level":"WARN","msg":"Failed to close hidden target","error":"to close the target, cancel its context or use chromedp.Cancel"}
+{"time":"2025-10-26T12:49:53.171591031-04:00","level":"INFO","msg":"Initial cookie sync completed, marker file created","path":"/home/ubuntu/.config/state-sync/.sync-ready"}
+{"time":"2025-10-26T12:49:53.171741459-04:00","level":"INFO","msg":"Watching targets"}
+{"time":"2025-10-26T12:49:53.321594555-04:00","level":"INFO","msg":"Initial target found","targetID":"517A5788D709E867585ABB2DB781F4FD"}
+{"time":"2025-10-26T12:49:53.323880725-04:00","level":"INFO","msg":"Target info changed","targetID":"517A5788D709E867585ABB2DB781F4FD"}
+{"time":"2025-10-26T12:54:37.443269438-04:00","level":"INFO","msg":"Target created","targetID":"FB063CF568533B6EADE3374E30B72340"}
+{"time":"2025-10-26T12:54:37.447316579-04:00","level":"INFO","msg":"Target info changed","targetID":"FB063CF568533B6EADE3374E30B72340"}
+{"time":"2025-10-26T12:54:37.457924174-04:00","level":"INFO","msg":"Target info changed","targetID":"FB063CF568533B6EADE3374E30B72340"}
+{"time":"2025-10-26T12:54:37.548649177-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:54:37.552540309-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:54:37.553797344-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:54:41.814510529-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:54:42.816619197-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:54:50.95275479-04:00","level":"INFO","msg":"Target info changed","targetID":"FB063CF568533B6EADE3374E30B72340"}
+{"time":"2025-10-26T12:54:51.315329859-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:54:57.684481076-04:00","level":"INFO","msg":"Target info changed","targetID":"FB063CF568533B6EADE3374E30B72340"}
+{"time":"2025-10-26T12:55:03.376407533-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376530953-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376535259-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376548336-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376551602-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376560265-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376563347-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376573604-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376576856-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:03.376598219-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291703386-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291743562-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291746195-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291764533-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291771253-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291772822-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291782081-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291866437-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291870807-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:08.291874016-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113028461-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113102543-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113132553-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113139078-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113157959-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113162008-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.11319502-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.113209498-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.11321394-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.11322573-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315277235-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315337763-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315340642-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315358347-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315360582-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315363078-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315379646-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.315385913-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.31538749-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:11.31539803-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157566942-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157612885-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157640266-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157642127-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157646691-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.15764858-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.15765061-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157652232-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157654261-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:12.157680196-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592558664-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592589026-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592590968-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592605749-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592607336-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592609539-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592624174-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592628979-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592630519-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:13.592638456-04:00","level":"INFO","msg":"ERROR: unhandled node event *dom.EventTopLayerElementsUpdated"}
+{"time":"2025-10-26T12:55:20.931020092-04:00","level":"INFO","msg":"Target created","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:20.935156859-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:20.947218636-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:21.043422526-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:55:30.693825412-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:30.906901229-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:30.909686442-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:30.938346747-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:31.360579709-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:55:31.366397157-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:55:31.366665678-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:55:31.537522933-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:31.911590691-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:32.913546225-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:33.071896997-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:34.918016371-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:36.236254942-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:36.921938425-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:37.557316246-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:37.693754761-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:37.789806838-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:37.791256741-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:37.925813227-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:40.057717444-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:42.937734123-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:43.795059373-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:44.163738116-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:44.435877692-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:55:44.952989153-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:45.948917861-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:46.045582312-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:55:46.951363399-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:56:31.061184568-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:56:39.813060011-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:56:40.806701068-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:56:40.831017639-04:00","level":"INFO","msg":"ERROR: received DOM.documentUpdated when there's no top-level frame"}
+{"time":"2025-10-26T12:56:41.049107922-04:00","level":"INFO","msg":"Target info changed","targetID":"E2E0EAC4360947F19EDF2725A164F676"}
+{"time":"2025-10-26T12:56:42.495177913-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T12:56:43.086268573-04:00","level":"INFO","msg":"Put is not allowed"}
+{"time":"2025-10-26T13:05:31.429728077-04:00","level":"INFO","msg":"Put is not allowed"}
