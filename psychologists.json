@@ -1,44 +1,44 @@
 [
     {
         "id": 1,
-        "name": "Dra. Laura Gómez",
-        "specialty": "Terapia Cognitivo-Conductual, Ansiedad",
-        "experience": "10 años de experiencia en terapia individual y de pareja. Especialista en manejo de ansiedad y estrés.",
-        "photo": "https://generative-models.web.app/images/generative-models-photo-1.jpg",
+        "name": "Prof. Angélica Mellizo Vásquez",
+        "specialty": "Psicóloga Clínica - Terapia Cognitivo-Conductual y Terapias de Tercera Generación",
+        "experience": "Especialista en acompañamiento psicológico para ansiedad, depresión, rupturas amorosas, duelo, problemas de autoestima. Ofrece sesiones online y presenciales con enfoque basado en la evidencia.",
+        "photo": "/musical-octo-telegram/angelica_mellizo_vasquez.webp",
         "availability": {
-            "Lunes": "9:00 AM - 5:00 PM",
-            "Martes": "9:00 AM - 1:00 PM",
-            "Miércoles": "No disponible",
-            "Jueves": "1:00 PM - 7:00 PM",
-            "Viernes": "9:00 AM - 5:00 PM"
+            "Lunes": "8:00 AM - 3:00 PM",
+            "Martes": "8:00 AM - 3:00 PM",
+            "Miércoles": "8:00 AM - 4:00 PM",
+            "Jueves": "8:00 AM - 3:00 PM",
+            "Viernes": "8:00 AM - 3:00 PM"
         }
     },
     {
         "id": 2,
-        "name": "Dr. Carlos Ramírez",
-        "specialty": "Terapia Familiar, Adolescentes",
-        "experience": "15 años de experiencia trabajando con adolescentes y familias. Enfoque en comunicación y resolución de conflictos.",
-        "photo": "https://generative-models.web.app/images/generative-models-photo-2.jpg",
+        "name": "Mag. Manuel Guerrero Gómez",
+        "specialty": "Psicólogo Clínico y Neuropsicólogo - Terapia Cognitivo Conductual y Terapias Contextuales",
+        "experience": "Maestría en Neuropsicología Clínica. Intervención en Psicología Clínica basada en la evidencia. Especialista en evaluación neuropsicológica del adulto e infantil, diagnóstico de déficit y deterioro cognitivo.",
+        "photo": "/musical-octo-telegram/manuel_guerrero_gomez.webp",
         "availability": {
-            "Lunes": "10:00 AM - 6:00 PM",
+            "Lunes": "8:00 AM - 11:00 AM, 1:00 PM - 6:00 PM",
             "Martes": "No disponible",
-            "Miércoles": "10:00 AM - 6:00 PM",
-            "Jueves": "10:00 AM - 2:00 PM",
-            "Viernes": "10:00 AM - 6:00 PM"
+            "Miércoles": "8:00 AM - 11:00 AM",
+            "Jueves": "8:00 AM - 11:00 AM",
+            "Viernes": "8:00 AM - 11:00 AM"
         }
     },
     {
         "id": 3,
-        "name": "Dra. Sofía Vargas",
-        "specialty": "Psicología Infantil, Bullying",
-        "experience": "8 años de experiencia en atención a niños y adolescentes, con énfasis en autoestima y manejo de bullying escolar.",
-        "photo": "https://generative-models.web.app/images/generative-models-photo-3.jpg",
+        "name": "Dra. Marisol Benitez Urrea",
+        "specialty": "Psicóloga Clínica - Terapia Cognitivo Conductual, Terapias Contextuales y PNL",
+        "experience": "Especialista en manejo de estrés, ansiedad, depresión, conflictos en relaciones y crecimiento personal a nivel individual y en pareja. Utiliza técnicas de PNL y actividades simbólicas como meditaciones guiadas y silla vacía.",
+        "photo": "/musical-octo-telegram/marisol_benitez_urrea.webp",
         "availability": {
             "Lunes": "No disponible",
-            "Martes": "2:00 PM - 8:00 PM",
-            "Miércoles": "9:00 AM - 5:00 PM",
-            "Jueves": "9:00 AM - 5:00 PM",
-            "Viernes": "No disponible"
+            "Martes": "10:00 AM - 5:00 PM",
+            "Miércoles": "No disponible",
+            "Jueves": "8:00 AM - 11:00 AM",
+            "Viernes": "8:00 AM - 11:00 AM"
         }
     }
 ]

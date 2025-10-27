@@ -282,7 +282,7 @@ document.addEventListener('DOMContentLoaded', function() {
 });
 
 function loadPsychologists() {
-    fetch('psychologists.json')
+    fetch('/musical-octo-telegram/psychologists.json')
         .then(response => response.json())
         .then(data => {
             const container = document.getElementById('psychologists-container');
